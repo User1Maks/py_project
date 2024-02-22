@@ -1,3 +1,6 @@
-from funcs import summ
+from funcs import summ, difference
 
 summ()
+
+difference()
+
