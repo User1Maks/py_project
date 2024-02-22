@@ -1,6 +1,8 @@
 def summ():
-    x = a + b
+    x = 7 + 5
+    return print(x)
 
 
 def difference():
-    c = a - b
+    c = 7 - 5
+    return print(c)
